@@ -1,0 +1,28 @@
+body{
+    background-color: #000000;
+    background-image: url('https://safebooru.org//samples/3784/sample_58dd1e8332bd8c4af2b93ced344d2b9c347eba71.jpg?3963194');
+    background-position: center top;
+    background-size: cover;
+    background-repeat: repeat-x;
+}
+.box1{
+    position: relative;
+    top: 700px;
+    left: 50px;
+    width: 1800px;
+    height: 300px;
+    background: rgb(153, 153, 153);
+    opacity: 89%;
+    z-index: 3;
+}
+h1{
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+#png{
+    position: relative;
+    top: 1px;
+    z-index: 2;
+}
